@@ -57,7 +57,7 @@ Analyse des performances commerciales d'une plateforme e-commerce brésilienne.
 
 ---
 
-### 2. Online Retail II — Sales & Customer Analytics
+### 2. Online Retail II - Sales & Customer Analytics
 
 Analyse des ventes et segmentation des clients d'une entreprise de vente en ligne.
 
@@ -76,7 +76,7 @@ Analyse des ventes et segmentation des clients d'une entreprise de vente en lign
 
 ---
 
-### 3. Promoteurs immobiliers PACA — Analyse géospatiale
+### 3. Promoteurs immobiliers PACA - Analyse géospatiale
 
 Analyse des promoteurs immobiliers et des opportunités foncières en région Provence-Alpes-Côte d'Azur.
 
