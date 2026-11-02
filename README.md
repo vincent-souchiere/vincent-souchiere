@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | Web Analytics • SQL • Python • Power BI
 
-Issu du Web Analytics, j'ai développé mon expérience dans la collecte, le suivi et l'analyse des données digitales, notamment avec Google Tag Manager (GTM), Google Analytics 4 (GA4), BigQuery, SQL et Looker Studio.
+Issu de la Web Analyse, j'ai développé mon expérience dans la collecte, le suivi et l'analyse des données digitales, notamment avec Google Tag Manager (GTM), Google Analytics 4 (GA4), BigQuery, SQL et Looker Studio.
 
 Aujourd'hui, je fais évoluer mon parcours vers la Data Analyse et la Business Intelligence, en élargissant mes compétences à la préparation, l'exploration, la transformation et la visualisation de données issues de différents domaines.
 
